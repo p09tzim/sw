@@ -9,7 +9,8 @@ Eργαλεία που χρησιμοποιούνται: MIT App Inventor
 
 Εικόνες από τον αρχικό σχεδιασμό της εφαρμογής:
 
-![image](https://cloud.githubusercontent.com/assets/17161099/13574996/455d915c-e48f-11e5-9765-962b32c1cee8.PNG) ![image1](https://cloud.githubusercontent.com/assets/17161099/13575342/101bf810-e491-11e5-96f1-9a65b6b111ed.PNG)
+![image2](https://cloud.githubusercontent.com/assets/17161099/13642453/3ba56e0e-e625-11e5-99e7-6f7521d88a4f.PNG)
+![image1](https://cloud.githubusercontent.com/assets/17161099/13575342/101bf810-e491-11e5-96f1-9a65b6b111ed.PNG)
 
 ##Παραδοτέο 2
 
