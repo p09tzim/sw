@@ -11,8 +11,6 @@ Eργαλεία που χρησιμοποιούνται: MIT App Inventor
 
 ![image](https://cloud.githubusercontent.com/assets/17161099/13574996/455d915c-e48f-11e5-9765-962b32c1cee8.PNG) ![image1](https://cloud.githubusercontent.com/assets/17161099/13575342/101bf810-e491-11e5-96f1-9a65b6b111ed.PNG)
 
-...
-
 ##Παραδοτέο 2
 
 …
