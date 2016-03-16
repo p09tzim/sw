@@ -3,7 +3,7 @@
 
 ##Παραδοτέο 1
 
-...
+ MIT App inventor quantified self
 
 ##Παραδοτέο 2
 
