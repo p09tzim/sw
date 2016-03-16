@@ -13,8 +13,8 @@
 
 Επιλογή τόπου: Κέρκυρα
 
-Περιγραφή: 
-……
+Περιγραφή: ……
+
 Εργαλεία:
 • Android Studio IDE
 • Design language: Material Design
