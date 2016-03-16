@@ -16,7 +16,9 @@
 Περιγραφή: ……
 
 Εργαλεία:
+
 • Android Studio IDE
+
 • Design language: Material Design
 
 Χρησιμοποιώ μια local SQLite βάση δεδομένων, στην οποία έχω αποθηκεύσει τα δεδομένα. Πιο συγκεκριμένα, η βάση δεδομένων είναι υλοποιημένη χρησιμοποιώντας Object-Relational Mapping(ORM) library.
