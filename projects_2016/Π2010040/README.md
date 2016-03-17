@@ -18,7 +18,8 @@
 
 Παραδοτέο 2
 
-…
+https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02010040/Screenshot_2.png
+https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02010040/Untitled1.png
 
 Παραδοτέο 3
 
