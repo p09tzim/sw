@@ -11,7 +11,7 @@
 Βασίζεται στο κλασσικό παιχνίδι φιδάκι με την παραλλαγή οτι ο χρήστης καλείται αν "φάει" τα σωστά νούμερα ώστε 
 να φτάσει στο αποτέλεσμα που του δίνεται.
 
-[screenshot](https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02013084/screenshot.png)
+[screenshot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013084/screenshot.png)
 ##Παραδοτέο 3
 
 ...
