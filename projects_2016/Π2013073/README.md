@@ -10,17 +10,20 @@
 
 Η εφαρμογή αρχικά και οι προορισμοί που προστέθηκαν:
 
-![default](https://cloud.githubusercontent.com/assets/17161099/15098679/503224b6-154b-11e6-88b7-59f6a19ba405.JPG) ![1](https://cloud.githubusercontent.com/assets/17161099/15098680/50348274-154b-11e6-87c1-c9b37e680061.JPG) ![2](https://cloud.githubusercontent.com/assets/17161099/15098681/5036cf84-154b-11e6-8b74-557ef2c619f6.JPG)
+![1](https://cloud.githubusercontent.com/assets/17161099/15100558/ad857078-157d-11e6-8a64-3d6a1acc5962.JPG)
+![2](https://cloud.githubusercontent.com/assets/17161099/15100559/ad880f36-157d-11e6-8abc-2a25e932aefc.JPG)
+![3](https://cloud.githubusercontent.com/assets/17161099/15100560/ad8ae4e0-157d-11e6-95d1-33487c63cfc8.JPG)
 
 ##Τελική παρουσίαση έργου για σχολιασμό και βελτιώσεις
 
 Παρακάτω παρουσιάζεται η εφαρμογή πριν την ολοκληρωσή της. Έγιναν test τόσο με την χρήση του Emulator του App Inventor όσο και με την χρήση android συσκευής. Αρχικά ο χρήστης εισάγεται στην εφαρμογή και καλείται να διαλέξει από τις τρεις επιλογές:
 
-![default](https://cloud.githubusercontent.com/assets/17161099/15098679/503224b6-154b-11e6-88b7-59f6a19ba405.JPG)
+![1](https://cloud.githubusercontent.com/assets/17161099/15100558/ad857078-157d-11e6-8a64-3d6a1acc5962.JPG)
 
 Στην πρώτη επιλογή που ονομάζεται «Επιλογή ενός προορισμού» ο χρήστης μπορεί να διαλέξει έναν προορισμό και μέσω του Google Maps να τον δει στον χάρτη. Παρακάτω φαίνονται οι προορισμοί που έχουν επιλεγεί:
 
-![1](https://cloud.githubusercontent.com/assets/17161099/15098680/50348274-154b-11e6-87c1-c9b37e680061.JPG) ![2](https://cloud.githubusercontent.com/assets/17161099/15098681/5036cf84-154b-11e6-8b74-557ef2c619f6.JPG)
+![2](https://cloud.githubusercontent.com/assets/17161099/15100559/ad880f36-157d-11e6-8abc-2a25e932aefc.JPG)
+![3](https://cloud.githubusercontent.com/assets/17161099/15100560/ad8ae4e0-157d-11e6-95d1-33487c63cfc8.JPG)
 
 Με την χρήση του Emulator του Αpp Inventor επιλέχθηκε ο προορισμός «Ποντικονήσι» και το αποτέλεσμα ήταν:
 
@@ -30,18 +33,17 @@
 
 Παρακάτω είναι η οθόνη στην οποία εισάγεται ο χρήστης:
 
-![img_1](https://cloud.githubusercontent.com/assets/17161099/15100329/6a620d98-1577-11e6-93d4-a0b488b44b86.JPG)
-
+![4](https://cloud.githubusercontent.com/assets/17161099/15100561/ad8ed4a6-157d-11e6-851f-db5294fe6bf5.JPG)
 Για έλεγχο της συγκεκριμένης λειτουργίας επιλέχθηκε σαν όρος αναζήτησης η λέξη «Corfu» και εμφανίστηκε με επιτυχία στον χάρτη:
 
-![img_two](https://cloud.githubusercontent.com/assets/17161099/15100332/6d61b35e-1577-11e6-80b6-692d7fb9c397.JPG)
-![5](https://cloud.githubusercontent.com/assets/17161099/15099038/627c0d9a-1554-11e6-9d8c-ffed269a020f.JPG)
-![img_three](https://cloud.githubusercontent.com/assets/17161099/15100379/9c3abd28-1578-11e6-9e48-6dc02b3086f6.JPG)
-![7](https://cloud.githubusercontent.com/assets/17161099/15099534/718bdeda-1560-11e6-8430-85ca8cffeac7.JPG)
+![5](https://cloud.githubusercontent.com/assets/17161099/15100562/ad8f86e4-157d-11e6-8ca4-76b060eb8945.JPG)
+![6](https://cloud.githubusercontent.com/assets/17161099/15100563/ad92ca98-157d-11e6-8ec9-84863d43d5dd.JPG)
+![7](https://cloud.githubusercontent.com/assets/17161099/15100564/ada3983c-157d-11e6-85c6-f4d63a0c96f9.JPG)
+![8](https://cloud.githubusercontent.com/assets/17161099/15100565/ada7ba16-157d-11e6-9cd6-2f10bff0addc.JPG)
 
 Στην τρίτη επιλογή που είναι η "Εύρεση τρέχουσας τοποθεσίας» εμφανίζεται η διεύθυνση στην οποία βρίσκεται εκείνη την στιγμή ο χρήστης και μπορεί να την δει στον χάρτη. Αν δεν μπορεί να βρεθεί η διεύθυνση εμφανίζεται η ένδειξη «Άγνωστη»:
 
-![9](https://cloud.githubusercontent.com/assets/17161099/15099050/a8bde256-1554-11e6-8bb3-3d1971a82dfd.JPG)
+![9](https://cloud.githubusercontent.com/assets/17161099/15100566/adaa790e-157d-11e6-99cc-9d75ad5b3e82.JPG)
 
 ##Tελική Αναφορά
 ...
