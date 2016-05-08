@@ -30,13 +30,13 @@
 
 Παρακάτω είναι η οθόνη στην οποία εισάγεται ο χρήστης:
 
-![photomain](https://cloud.githubusercontent.com/assets/17161099/15099513/e2e03bd6-155f-11e6-8e58-ff6c86dd189a.JPG)
+![img_1](https://cloud.githubusercontent.com/assets/17161099/15100329/6a620d98-1577-11e6-93d4-a0b488b44b86.JPG)
 
 Για έλεγχο της συγκεκριμένης λειτουργίας επιλέχθηκε σαν όρος αναζήτησης η λέξη «Corfu» και εμφανίστηκε με επιτυχία στον χάρτη:
 
-![photo1](https://cloud.githubusercontent.com/assets/17161099/15099514/e6a72518-155f-11e6-84b1-afb6850b4392.JPG)
+![img_two](https://cloud.githubusercontent.com/assets/17161099/15100332/6d61b35e-1577-11e6-80b6-692d7fb9c397.JPG)
 ![5](https://cloud.githubusercontent.com/assets/17161099/15099038/627c0d9a-1554-11e6-9d8c-ffed269a020f.JPG)
-![photo3](https://cloud.githubusercontent.com/assets/17161099/15099517/e8855ff8-155f-11e6-8b76-7f3160a85667.JPG)
+![img_three](https://cloud.githubusercontent.com/assets/17161099/15100379/9c3abd28-1578-11e6-9e48-6dc02b3086f6.JPG)
 ![7](https://cloud.githubusercontent.com/assets/17161099/15099534/718bdeda-1560-11e6-8430-85ca8cffeac7.JPG)
 
 Στην τρίτη επιλογή που είναι η "Εύρεση τρέχουσας τοποθεσίας» εμφανίζεται η διεύθυνση στην οποία βρίσκεται εκείνη την στιγμή ο χρήστης και μπορεί να την δει στον χάρτη. Αν δεν μπορεί να βρεθεί η διεύθυνση εμφανίζεται η ένδειξη «Άγνωστη»:
