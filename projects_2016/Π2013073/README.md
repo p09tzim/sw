@@ -10,7 +10,7 @@
 
 Η εφαρμογή αρχικά και οι προορισμοί που προστέθηκαν:
 
-![1](https://cloud.githubusercontent.com/assets/17161099/15100558/ad857078-157d-11e6-8a64-3d6a1acc5962.JPG)
+![1](https://cloud.githubusercontent.com/assets/17161099/15144840/a7a7873e-16ba-11e6-9c13-fddad02c4d88.JPG)
 ![2](https://cloud.githubusercontent.com/assets/17161099/15100559/ad880f36-157d-11e6-8abc-2a25e932aefc.JPG)
 ![3](https://cloud.githubusercontent.com/assets/17161099/15100560/ad8ae4e0-157d-11e6-95d1-33487c63cfc8.JPG)
 
@@ -18,7 +18,7 @@
 
 Παρακάτω παρουσιάζεται η εφαρμογή πριν την ολοκληρωσή της. Έγιναν test τόσο με την χρήση του Emulator του App Inventor όσο και με την χρήση android συσκευής. Αρχικά ο χρήστης εισάγεται στην εφαρμογή και καλείται να διαλέξει από τις τρεις επιλογές:
 
-![1](https://cloud.githubusercontent.com/assets/17161099/15100558/ad857078-157d-11e6-8a64-3d6a1acc5962.JPG)
+![1](https://cloud.githubusercontent.com/assets/17161099/15144840/a7a7873e-16ba-11e6-9c13-fddad02c4d88.JPG)
 
 Στην πρώτη επιλογή που ονομάζεται «Επιλογή ενός προορισμού» ο χρήστης μπορεί να διαλέξει έναν προορισμό και μέσω του Google Maps να τον δει στον χάρτη. Παρακάτω φαίνονται οι προορισμοί που έχουν επιλεγεί:
 
@@ -33,19 +33,19 @@
 
 Παρακάτω είναι η οθόνη στην οποία εισάγεται ο χρήστης:                                                                          
 
-![4](https://cloud.githubusercontent.com/assets/17161099/15100561/ad8ed4a6-157d-11e6-851f-db5294fe6bf5.JPG)
+![2](https://cloud.githubusercontent.com/assets/17161099/15144841/a9502e56-16ba-11e6-936c-4ab18a556aeb.JPG)
 
 
 Για έλεγχο της συγκεκριμένης λειτουργίας επιλέχθηκε σαν όρος αναζήτησης η λέξη «Corfu» και εμφανίστηκε με επιτυχία στον χάρτη:
                                                                                                                                      
-![5](https://cloud.githubusercontent.com/assets/17161099/15100562/ad8f86e4-157d-11e6-8ca4-76b060eb8945.JPG)
+![3](https://cloud.githubusercontent.com/assets/17161099/15144842/aa7208c2-16ba-11e6-989c-fe9d3992eedc.JPG)
 ![6](https://cloud.githubusercontent.com/assets/17161099/15100563/ad92ca98-157d-11e6-8ec9-84863d43d5dd.JPG)
-![7](https://cloud.githubusercontent.com/assets/17161099/15100564/ada3983c-157d-11e6-85c6-f4d63a0c96f9.JPG)
+![4](https://cloud.githubusercontent.com/assets/17161099/15145370/ccfbcd08-16bd-11e6-9537-c5b1e5857b73.JPG)
 ![8](https://cloud.githubusercontent.com/assets/17161099/15100565/ada7ba16-157d-11e6-9cd6-2f10bff0addc.JPG)
 
 Στην τρίτη επιλογή που είναι η "Εύρεση τρέχουσας τοποθεσίας» εμφανίζεται η διεύθυνση στην οποία βρίσκεται εκείνη την στιγμή ο χρήστης και μπορεί να την δει στον χάρτη. Αν δεν μπορεί να βρεθεί η διεύθυνση εμφανίζεται η ένδειξη «Άγνωστη»:
 
-![9](https://cloud.githubusercontent.com/assets/17161099/15100566/adaa790e-157d-11e6-99cc-9d75ad5b3e82.JPG)
+![5](https://cloud.githubusercontent.com/assets/17161099/15144844/ad20d2a6-16ba-11e6-9d09-fd963f04f6a7.JPG)
 
 ##Tελική Αναφορά
 
@@ -56,7 +56,11 @@ Tίτλος: ΤourofCorfuApp
 
 Eισαγωγή: 
 
-Mε την εφαρμογή αυτή ο χρήστης έχει τις εξής επιλογές:                                                                    -Να επιλέξει έναν συγκεκριμένο προορισμό από μία λίστα γνωστών προορισμών στην Κέρκυρα.                                                                                           -Να αναζητήσει έναν συγκεκριμένο προορισμό και να τον δει στον χάρτη μέσω της εφαρμογής Google Maps.                                -Να δει την τρέχουσα τοποθεσία του και να δει που βρίσκεται στον χάρτη η τοποθεσία αυτή. Μέσω της δυνατότητας αυτής μπορεί να δει ποιοι προορισμοί βρίσκονται κοντά του με την εφαρμογή Google Maps.
+Η εφαρμογή ονομάζεται TourofCorfuApp και αποτελεί έναν τουριστικό οδηγό για την Κέρκυρα. Ο χρήστης έχει τις εξής επιλογές:                             
+-Να επιλέξει έναν συγκεκριμένο προορισμό από μία λίστα γνωστών προορισμών στην Κέρκυρα.  
+-Να αναζητήσει έναν συγκεκριμένο προορισμό και να τον δει στον χάρτη μέσω της εφαρμογής Google Maps.      
+-Να δει την τρέχουσα τοποθεσία του και να δει που βρίσκεται στον χάρτη η τοποθεσία αυτή. Μέσω της δυνατότητας αυτής μπορεί να δει ποιοι προορισμοί βρίσκονται κοντά του με την εφαρμογή Google Maps.
+
 
 Eπιλογή εργαλείων: App Inventor (appinventor.mit.edu/explore/)
 
@@ -71,7 +75,7 @@ Android, Where's My Car? for App Inventor 2 (explore.appinventor.mit.edu/ai2/and
 
 Αρχικά ο χρήστης εισάγεται στην εφαρμογή και καλείται να διαλέξει από τις τρεις επιλογές:
 
-![1](https://cloud.githubusercontent.com/assets/17161099/15100558/ad857078-157d-11e6-8a64-3d6a1acc5962.JPG)
+![1](https://cloud.githubusercontent.com/assets/17161099/15144840/a7a7873e-16ba-11e6-9c13-fddad02c4d88.JPG)
 
 Στην πρώτη επιλογή που ονομάζεται «Επιλογή ενός προορισμού» ο χρήστης μπορεί να διαλέξει έναν προορισμό και μέσω του Google Maps να τον δει στον χάρτη. Παρακάτω φαίνονται οι προορισμοί που έχουν επιλεγεί:
 
@@ -86,23 +90,18 @@ Android, Where's My Car? for App Inventor 2 (explore.appinventor.mit.edu/ai2/and
 
 Παρακάτω είναι η οθόνη στην οποία εισάγεται ο χρήστης:                                                                          
 
-![4](https://cloud.githubusercontent.com/assets/17161099/15100561/ad8ed4a6-157d-11e6-851f-db5294fe6bf5.JPG)
+![2](https://cloud.githubusercontent.com/assets/17161099/15144841/a9502e56-16ba-11e6-936c-4ab18a556aeb.JPG)
 
 
 Για έλεγχο της συγκεκριμένης λειτουργίας επιλέχθηκε σαν όρος αναζήτησης η λέξη «Corfu» και εμφανίστηκε με επιτυχία στον χάρτη:
                                                                                                                                      
-![5](https://cloud.githubusercontent.com/assets/17161099/15100562/ad8f86e4-157d-11e6-8ca4-76b060eb8945.JPG)
+![3](https://cloud.githubusercontent.com/assets/17161099/15144842/aa7208c2-16ba-11e6-989c-fe9d3992eedc.JPG)
 ![6](https://cloud.githubusercontent.com/assets/17161099/15100563/ad92ca98-157d-11e6-8ec9-84863d43d5dd.JPG)
-![7](https://cloud.githubusercontent.com/assets/17161099/15100564/ada3983c-157d-11e6-85c6-f4d63a0c96f9.JPG)
+![4](https://cloud.githubusercontent.com/assets/17161099/15145370/ccfbcd08-16bd-11e6-9537-c5b1e5857b73.JPG)
 ![8](https://cloud.githubusercontent.com/assets/17161099/15100565/ada7ba16-157d-11e6-9cd6-2f10bff0addc.JPG)
 
 Στην τρίτη επιλογή που είναι η "Εύρεση τρέχουσας τοποθεσίας» εμφανίζεται με την χρήση GPS η διεύθυνση στην οποία βρίσκεται εκείνη την στιγμή ο χρήστης και μπορεί να την δει στον χάρτη. Αν δεν μπορεί να βρεθεί η διεύθυνση εμφανίζεται η ένδειξη «Άγνωστη»:
 
-![9](https://cloud.githubusercontent.com/assets/17161099/15100566/adaa790e-157d-11e6-99cc-9d75ad5b3e82.JPG)
+![5](https://cloud.githubusercontent.com/assets/17161099/15144844/ad20d2a6-16ba-11e6-9d09-fd963f04f6a7.JPG)
 
 
-Ενδεικτικές οθόνες:
-
-![1](https://cloud.githubusercontent.com/assets/17161099/15100558/ad857078-157d-11e6-8a64-3d6a1acc5962.JPG)
-![2](https://cloud.githubusercontent.com/assets/17161099/15100559/ad880f36-157d-11e6-8abc-2a25e932aefc.JPG)
-![4](https://cloud.githubusercontent.com/assets/17161099/15100561/ad8ed4a6-157d-11e6-851f-db5294fe6bf5.JPG)
