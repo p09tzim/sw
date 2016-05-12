@@ -21,10 +21,10 @@
 ##Παραδοτέο 3
 
 
-Σύνδεσμος στο app inventor: http://ai2.appinventor.mit.edu/?galleryId=5531411721486336#6572754124144640
+Σύνδεσμος στο app inventor: ai2.appinventor.mit.edu/?galleryId=5378720852606976
 
 
-dropbox link:https://www.dropbox.com/s/vzexw33ywmwq07j/corfu.apk?dl=0
+dropbox link: https://www.dropbox.com/s/msot8t243ryfyzy/CorfuTourGuide.apk?dl=0
 
 
 Η εφαρμογή που δημιουργήσαμε απευθύνεται σε android συσκευες, 
