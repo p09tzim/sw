@@ -14,7 +14,7 @@
 ![2](https://cloud.githubusercontent.com/assets/17161099/15100559/ad880f36-157d-11e6-8abc-2a25e932aefc.JPG)
 ![3](https://cloud.githubusercontent.com/assets/17161099/15100560/ad8ae4e0-157d-11e6-95d1-33487c63cfc8.JPG)
 
-##Τελική παρουσίαση έργου για σχολιασμό και βελτιώσεις
+##Τελική παρουσίαση έργου
 
 Παρακάτω παρουσιάζεται η εφαρμογή πριν την ολοκληρωσή της. Έγιναν test τόσο με την χρήση του Emulator του App Inventor όσο και με την χρήση android συσκευής. Αρχικά ο χρήστης εισάγεται στην εφαρμογή και καλείται να διαλέξει από τις τρεις επιλογές:
 
@@ -104,4 +104,10 @@ Android, Where's My Car? for App Inventor 2 (explore.appinventor.mit.edu/ai2/and
 
 ![5](https://cloud.githubusercontent.com/assets/17161099/15144844/ad20d2a6-16ba-11e6-9d09-fd963f04f6a7.JPG)
 
+Ενδεικτικές οθόνες:
 
+![1](https://cloud.githubusercontent.com/assets/17161099/15144840/a7a7873e-16ba-11e6-9c13-fddad02c4d88.JPG)
+![2](https://cloud.githubusercontent.com/assets/17161099/15100559/ad880f36-157d-11e6-8abc-2a25e932aefc.JPG)
+![3](https://cloud.githubusercontent.com/assets/17161099/15100560/ad8ae4e0-157d-11e6-95d1-33487c63cfc8.JPG)
+![2](https://cloud.githubusercontent.com/assets/17161099/15144841/a9502e56-16ba-11e6-936c-4ab18a556aeb.JPG)
+ 
