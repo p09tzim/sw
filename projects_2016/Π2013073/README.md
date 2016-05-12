@@ -35,12 +35,12 @@
 
 ##Tελική Αναφορά
 
-Tίτλος: ΤourofCorfuApp
+**Τίτλος**: ΤourofCorfuApp
 
-Σύνοψη: Η εφαρμογή ονομάζεται TourofCorfuApp και αποτελεί έναν τουριστικό οδηγό για την Κέρκυρα. 
+**Σύνοψη**: Η εφαρμογή ονομάζεται TourofCorfuApp και αποτελεί έναν τουριστικό οδηγό για την Κέρκυρα. 
 
 
-Eισαγωγή: 
+**Eισαγωγή**: 
 
 Η εφαρμογή ονομάζεται TourofCorfuApp και αποτελεί έναν τουριστικό οδηγό για την Κέρκυρα. Ο χρήστης έχει τις εξής επιλογές:                             
 -Να επιλέξει έναν συγκεκριμένο προορισμό από μία λίστα γνωστών προορισμών στην Κέρκυρα.  
@@ -48,19 +48,19 @@ Eισαγωγή:
 -Να δει την τρέχουσα τοποθεσία του και να δει που βρίσκεται στον χάρτη η τοποθεσία αυτή. Μέσω της δυνατότητας αυτής μπορεί να δει ποιοι προορισμοί βρίσκονται κοντά του με την εφαρμογή Google Maps.
 
 
-Eπιλογή εργαλείων: App Inventor (appinventor.mit.edu/explore/)
+**Eπιλογή εργαλείων**: App Inventor (appinventor.mit.edu/explore/)
 
 
-Διαδικασία ανάπτυξης: 
+**Διαδικασία ανάπτυξης**: 
 
 Για την υλοποίηση της εφαρμογής χρησιμοποιήθηκαν κυρίως τα tutorials MapTour (appinventor.mit.edu/explore/content/maptour.html), Map It: Displaying Locations on a Google Map (explore.appinventor.mit.edu/displaying-maps) και
 Android, Where's My Car? for App Inventor 2 (explore.appinventor.mit.edu/ai2/android-wheres-my-car). Αρχικά προστέθηκαν οι βασικοί προορισμοί από τους οποίους μπορεί να επιλέξει ο χρήστης με την βοήθεια του MapTour. Στην συνέχεια προστέθηκε η λειτουργία αναζήτησης ενός συγκεκριμένου προορισμού του χρήστη ακολουθώντας το Map It: Displaying Locations on a Google Map και η δυνατότητα εύρεσης της τρέχουσας τοποθεσίας με την χρήση του Android, Where's My Car? for App Inventor 2. Έγινε έλεγχος των λειτουργιών αρχικά με τον Εmulator και στην συνέχεια με την χρήση android κινητής συσκευής.
 
 
-Διάγραμμα λειτουργίας συστήματος:
+**Διάγραμμα λειτουργίας συστήματος**:
 
 
-Ενδεικτικές οθόνες:
+**Ενδεικτικές οθόνες**:
 
 ![1](https://cloud.githubusercontent.com/assets/17161099/15144840/a7a7873e-16ba-11e6-9c13-fddad02c4d88.JPG)
 ![2](https://cloud.githubusercontent.com/assets/17161099/15100559/ad880f36-157d-11e6-8abc-2a25e932aefc.JPG)
