@@ -17,7 +17,7 @@ REST_ROUTER.prototype.handleRoutes = function(router,connection) {
         //var specific = !(req.query.customerNumber === '');
         if(req.query.customerNumber){
             if(req.query.orders){
-                query = "SELECT * FROM orders,customers WHERE customerNumber=?";
+                query = "SELECT * FROM orders INNER JOIN customers ON orders.customerNumber = customers.customerNumber WHERE customerNumber=?";
             }
             else{
                 query = "SELECT * FROM customers WHERE customerNumber=?";
