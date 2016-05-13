@@ -27,11 +27,11 @@
 
 Στην δεύτερη επιλογή που ονομάζεται «Αναζήτηση προορισμού» πληκτρολογεί ο χρήστης έναν προορισμό της επιλογής του και στην συνέχεια διαλέγει να τον δει στον χάρτη:
 
-![12](https://cloud.githubusercontent.com/assets/17161099/15248221/b2a227e8-1921-11e6-8a2b-27f357f6bcac.JPG)
+![9](https://cloud.githubusercontent.com/assets/17161099/15249431/2097548e-1928-11e6-99f7-2971e5597ed7.JPG)
 
 Στην τρίτη επιλογή που είναι η «Εύρεση τρέχουσας τοποθεσίας» εμφανίζεται η τοποθεσία στην οποία βρίσκεται ο χρήστης και μπορεί να την δει στον χάρτη:
 
-![5](https://cloud.githubusercontent.com/assets/17161099/15144844/ad20d2a6-16ba-11e6-9d09-fd963f04f6a7.JPG)
+![10](https://cloud.githubusercontent.com/assets/17161099/15249436/25833896-1928-11e6-88ae-39317363dc74.JPG)
 
 ##Tελική Αναφορά
 
@@ -66,5 +66,5 @@
 ![1](https://cloud.githubusercontent.com/assets/17161099/15144840/a7a7873e-16ba-11e6-9c13-fddad02c4d88.JPG)
 ![2](https://cloud.githubusercontent.com/assets/17161099/15100559/ad880f36-157d-11e6-8abc-2a25e932aefc.JPG)
 ![3](https://cloud.githubusercontent.com/assets/17161099/15100560/ad8ae4e0-157d-11e6-95d1-33487c63cfc8.JPG)
-![5](https://cloud.githubusercontent.com/assets/17161099/15144844/ad20d2a6-16ba-11e6-9d09-fd963f04f6a7.JPG)
-![12](https://cloud.githubusercontent.com/assets/17161099/15248221/b2a227e8-1921-11e6-8a2b-27f357f6bcac.JPG)
+![9](https://cloud.githubusercontent.com/assets/17161099/15249431/2097548e-1928-11e6-99f7-2971e5597ed7.JPG)
+![10](https://cloud.githubusercontent.com/assets/17161099/15249436/25833896-1928-11e6-88ae-39317363dc74.JPG)
