@@ -16,9 +16,16 @@ REST_ROUTER.prototype.handleRoutes = function(router,connection) {
         var table = ["customers"];
         //var specific = !(req.query.customerNumber === '');
         if(req.query.customerNumber){
+            if(req.query.orders){
+                query = "SELECT * FROM orders,customers WHERE customerNumber=?";
+            }
+            else{
+                query = "SELECT * FROM customers WHERE customerNumber=?";
+            }
             query = "SELECT * FROM customers WHERE customerNumber=?";
             table = [req.query.customerNumber];
         }
+
         query = mysql.format(query,table);
         connection.query(query,function(err,rows){
             if(err) {
