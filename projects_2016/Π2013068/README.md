@@ -17,6 +17,8 @@
 Σύνδεσμος στο app inventor:
 ai2.appinventor.mit.edu/?galleryId=5531411721486336
 
+Βίντεο παρουσίασης: https://youtu.be/jQDE2dQsnkI
+
 dropbox link:
 https://www.dropbox.com/s/fvbbuh835wcn1v8/corfutour.apk?dl=0
 ##Παραδοτέο 4
