@@ -3,6 +3,10 @@
  
 Διδάσκων: Χωριανόπουλος Κωνσταντίνος
 
+Μάθημα: Τεχνολογία Λογισμικού
+
+Εξάμηνο: ΣΤ
+
 Όνομα φοιτητή: Τεπελίδης Νικόλαος
 
 Α.Μ: Π2013069
@@ -52,3 +56,7 @@ Link: https://scratch.mit.edu/projects/42239644/#player
 http://ebooks.edu.gr/courses/DSDIM-E100/document/4bd715826xh0/523c11d9xog2/53c3d68agmc9.pdf
 
 Εικόνες: Παρακάτω τοποθετώ ορισμένες εικόνες απο το παιχνίδι.
+
+![ScreenShot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013069/Screenshot_19.png)
+![ScreenShot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013069/Screenshot_20.png)
+![ScreenShot](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013069/Screenshot_21.png)
