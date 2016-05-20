@@ -66,8 +66,6 @@
 
 
 
-[!screenshot1](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013043/screenshot.png)
-[!screenshot2](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013043/screenshot2.png)
 
 
 
