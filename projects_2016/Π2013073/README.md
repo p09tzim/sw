@@ -10,28 +10,28 @@
 
 Η εφαρμογή αρχικά και οι προορισμοί που προστέθηκαν:
 
-![1](https://cloud.githubusercontent.com/assets/17161099/15144840/a7a7873e-16ba-11e6-9c13-fddad02c4d88.JPG)
-![5](https://cloud.githubusercontent.com/assets/17161099/15313871/cfba6f6e-1c16-11e6-92b8-061371eca901.JPG)
-![6](https://cloud.githubusercontent.com/assets/17161099/15313872/cfbe106a-1c16-11e6-90df-543ffa875db1.JPG)
+![1](https://cloud.githubusercontent.com/assets/17161099/15429867/7f19bd5c-1eab-11e6-8979-e29b132601b9.JPG)
+![2](https://cloud.githubusercontent.com/assets/17161099/15429871/7f2ca0a2-1eab-11e6-84e4-5e0b56b24aff.JPG)
+![3](https://cloud.githubusercontent.com/assets/17161099/15429868/7f230f9c-1eab-11e6-94f8-7b10241e3db2.JPG)
 
 ##Τελική παρουσίαση έργου
 
 Παρακάτω παρουσιάζεται η εφαρμογή πριν την ολοκληρωσή της. Αρχικά ο χρήστης εισάγεται στην εφαρμογή και καλείται να διαλέξει από τις τρεις επιλογές:
 
-![1](https://cloud.githubusercontent.com/assets/17161099/15144840/a7a7873e-16ba-11e6-9c13-fddad02c4d88.JPG)
+![1](https://cloud.githubusercontent.com/assets/17161099/15429867/7f19bd5c-1eab-11e6-8979-e29b132601b9.JPG)
 
 Στην πρώτη επιλογή που ονομάζεται «Επιλογή προορισμού» ο χρήστης μπορεί να διαλέξει έναν προορισμό και μέσω του Google Maps να τον δει στον χάρτη. Παρακάτω φαίνονται οι προορισμοί που έχουν επιλεγεί:
 
-![5](https://cloud.githubusercontent.com/assets/17161099/15313871/cfba6f6e-1c16-11e6-92b8-061371eca901.JPG)
-![6](https://cloud.githubusercontent.com/assets/17161099/15313872/cfbe106a-1c16-11e6-90df-543ffa875db1.JPG)
+![2](https://cloud.githubusercontent.com/assets/17161099/15429871/7f2ca0a2-1eab-11e6-84e4-5e0b56b24aff.JPG)
+![3](https://cloud.githubusercontent.com/assets/17161099/15429868/7f230f9c-1eab-11e6-94f8-7b10241e3db2.JPG)
 
 Στην δεύτερη επιλογή που ονομάζεται «Αναζήτηση προορισμού» πληκτρολογεί ο χρήστης έναν προορισμό της επιλογής του και στην συνέχεια διαλέγει να τον δει στον χάρτη:
 
-![9](https://cloud.githubusercontent.com/assets/17161099/15249431/2097548e-1928-11e6-99f7-2971e5597ed7.JPG)
+![4](https://cloud.githubusercontent.com/assets/17161099/15429870/7f2807a4-1eab-11e6-839e-e3e2eabbe847.JPG)
 
 Στην τρίτη επιλογή που είναι η «Εύρεση τρέχουσας τοποθεσίας» εμφανίζεται η τοποθεσία στην οποία βρίσκεται ο χρήστης και μπορεί να την δει στον χάρτη:
 
-![10](https://cloud.githubusercontent.com/assets/17161099/15249436/25833896-1928-11e6-88ae-39317363dc74.JPG)
+![5](https://cloud.githubusercontent.com/assets/17161099/15429869/7f254ce4-1eab-11e6-80be-93b4aa114c06.JPG)
 
 ##Tελική Αναφορά
 
@@ -66,11 +66,12 @@
 
 **Ενδεικτικές οθόνες:**
 
-![1](https://cloud.githubusercontent.com/assets/17161099/15144840/a7a7873e-16ba-11e6-9c13-fddad02c4d88.JPG)
-![5](https://cloud.githubusercontent.com/assets/17161099/15313871/cfba6f6e-1c16-11e6-92b8-061371eca901.JPG)
-![6](https://cloud.githubusercontent.com/assets/17161099/15313872/cfbe106a-1c16-11e6-90df-543ffa875db1.JPG)
-![9](https://cloud.githubusercontent.com/assets/17161099/15249431/2097548e-1928-11e6-99f7-2971e5597ed7.JPG)
-![10](https://cloud.githubusercontent.com/assets/17161099/15249436/25833896-1928-11e6-88ae-39317363dc74.JPG)
+![1](https://cloud.githubusercontent.com/assets/17161099/15429867/7f19bd5c-1eab-11e6-8979-e29b132601b9.JPG)
+![2](https://cloud.githubusercontent.com/assets/17161099/15429871/7f2ca0a2-1eab-11e6-84e4-5e0b56b24aff.JPG)
+![3](https://cloud.githubusercontent.com/assets/17161099/15429868/7f230f9c-1eab-11e6-94f8-7b10241e3db2.JPG)
+![4](https://cloud.githubusercontent.com/assets/17161099/15429870/7f2807a4-1eab-11e6-839e-e3e2eabbe847.JPG)
+![5](https://cloud.githubusercontent.com/assets/17161099/15429869/7f254ce4-1eab-11e6-80be-93b4aa114c06.JPG)
+
 
 **Συμπεράσματα:**                                                                                                                     
 H παρούσα εφαρμογή έχει ως στόχο να είναι ένας χρήσιμος και εύχρηστος τουριστικός οδηγός. Με την προσθηκή επιπλέον λειτουργειών μελλοντικά μπορεί να βελτιωθεί σημαντικά και να γίνει ακόμα πιο χρήσιμη.
