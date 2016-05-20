@@ -65,7 +65,8 @@
 Σχετικές Εργασίες:Το API δεν είναι τροποποίηση υπάρχοντος εργασίας και δεν περιέχει έτοιμο κώδικα πέρα της σύνταξης (πχ του mysql.Createconnection)
 
 
-
+![screenshot1](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013043/screenshot.PNG)
+![screenshot2](https://raw.githubusercontent.com/courses-ionio/sw/master/projects_2016/%CE%A02013043/screenshot2.PNG)
 
 
 
