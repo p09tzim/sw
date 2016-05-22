@@ -65,8 +65,8 @@ X.		Ολοκλήρωση της εκπαιδευτικής εφαρμογής
 Συμπεράσματα: Ο ελεύθερος χρόνος του ατόμου δεν είναι αναγκαίο να αποτελείται από ανίαρες, χρονοβόρες και άσκοπες δραστηριότητες που δεν θα του επιφέρουν κανένα κέρδος, αλλά από ουσιώδης, προσοδοφόρες ενασχολήσεις, από τις οποίες θα επωφεληθεί και θα βελτιώσει την ποιότητα ζωής του. Σκοπός της εφαρμογής αυτής είναι ακριβώς αυτό, να διασκεδάσει τους χρήστες της με τρόπο εκπαιδευτικό και να τους εφοδιάσει με τα κατάλληλα εργάλεια.  
 
 Εικόνες: 
-http://imgur.com/gK8nJz0
-http://imgur.com/mwxU8pl
-http://imgur.com/6m10njX
-http://imgur.com/HScl9ht
+https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02010040/Scrnshot_2.png
+https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02010040/Screenshot_4.png
+https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02010040/Screenshot_5.png
+https://github.com/courses-ionio/sw/blob/master/projects_2016/%CE%A02010040/Screenshot_6.png
 
