@@ -85,3 +85,18 @@ https://scratch.mit.edu/projects/108964019/
               Συμπέρασμα :   Το παιχνίδι αυτό είναι λοιπόν ένα απλό αλλα ευχάριστο παιχνίδι ερωτήσεων πολλαπλής επιλογής όπου
                              ο μαθητής-χρήστης ελέγχει τις γνώσεις του σχετικά με το συγκεκριμένο κεφάλαιο της χημείας και τον 
                              βοηθά να την κατανοήσει καλύτερα.
+                            
+                            
+              Ενδεικτικές εικόνες :
+              
+              
+![screenshot - 22_5_2016 
+5_55_30](https://cloud.githubusercontent.com/assets/17615944/15454723/695470da-2049-11e6-98af-cbc04cc12b84.jpg)
+
+![screenshot - 22_5_2016 5_49_54](https://cloud.githubusercontent.com/assets/17615944/15454747/d8abe1ac-2049-11e6-914e-319d51f1af04.jpg)
+
+![screenshot - 22_5_2016 5_50_25](https://cloud.githubusercontent.com/assets/17615944/15454762/42aded7a-204a-11e6-823e-c50fbb4c9dcf.jpg)
+
+![screenshot - 22_5_2016 5_50_18](https://cloud.githubusercontent.com/assets/17615944/15454765/4f8220d4-204a-11e6-94ee-a72c6261b28d.jpg)
+
+![screenshot - 22_5_2016 5_49_23](https://cloud.githubusercontent.com/assets/17615944/15454767/58bb8fc8-204a-11e6-80a9-f4c64b1b97f3.jpg)
