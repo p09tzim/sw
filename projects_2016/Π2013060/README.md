@@ -37,7 +37,7 @@
                 τα πιο βασικά της χημείας.
                 
                 
-                Το game : 
+#Το game : 
 https://scratch.mit.edu/projects/108964019/               
                 
                 
